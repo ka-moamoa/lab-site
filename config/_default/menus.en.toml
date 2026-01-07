@@ -1,0 +1,29 @@
+[[main]]
+name = "About"
+pageRef = "/about"
+weight = 10
+
+[[main]]
+name = "Research"
+pageRef = "/research"
+weight = 20
+
+[[main]]
+name = "News"
+pageRef = "/news"
+weight = 30
+
+[[main]]
+name = "Videos"
+pageRef = "/videos"
+weight = 40
+
+[[main]]
+name = "Team"
+pageRef = "/team"
+weight = 50
+
+[[main]]
+name = "Contact"
+pageRef = "/contact"
+weight = 50

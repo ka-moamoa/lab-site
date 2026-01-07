@@ -1,0 +1,40 @@
+colorScheme = "congo"
+defaultAppearance = "light"
+autoSwitchAppearance = true
+
+# Show a table-of-contents on long pages like People
+showTableOfContents = true
+
+# Basic site chrome
+enableSearch = true
+enableCodeCopy = true
+
+disableTextInHeader = false
+logo = "img/KaMoamoaLogo_Transparent.png"
+secondaryLogo = "img/KaMoamoaLogo_Transparent_DarkMode.png"
+
+[homepage]
+layout = "page"
+showRecent = false
+
+[news]
+layout = "page"
+showRecent = false
+
+[article]
+showDate = false
+showReadingTime = false
+showAuthor = false
+showTaxonomies = false
+showEdit = false
+showWordCount = false
+showComments = false
+showHero = true
+heroStyle = 'background'
+
+[list]
+showSummary = true
+showTableOfContents = false
+groupByYear = false
+
+customCSS = ["css/custom.css"]
