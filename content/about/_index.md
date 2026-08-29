@@ -44,6 +44,13 @@ We seek to exemplify the lessons of the moamoa as learned from our tradition.
 
 # Values
 
+> **E huli ana makou i ka aina mamua aku...**
+*We press on to lands beyond..[^1]*
+
+
+[^1]: [Pele and Hiiaka: A Myth From Hawaii. Nathaniel Bright Emerson. 1915](https://www.gutenberg.org/cache/epub/60279/pg60279.txt)
+
+
 All lab members should reflect and think deeply about the lab values below.
 
 1. **Mālama I Ka 'Āina.** We value each other's wellbeing, the wellbeing of the planet, humanity, and our plant and animal relatives, and we strive to ensure our projects demonstrate this. 
@@ -53,6 +60,7 @@ All lab members should reflect and think deeply about the lab values below.
 5. **Moʻolelo.** We value lived experience as co-equal with learned (western) scientific knowledge– Including traditions, storytelling and oral histories. 
 6. **Lāhui.** We value community partners and their hopes, dreams, and vision guide our research.
 7. **Haumana.** We value the student experience, embracing the [Georgia Tech value that “Students are our top priority.”](https://strategicplan.gatech.edu/values)
+
 
 # Acknowledgments
 

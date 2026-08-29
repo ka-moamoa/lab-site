@@ -24,7 +24,7 @@ math = false
 
 +++
 
-![necksense](../../img/ntrain.jpg)
+![necksense](../../../img/ntrain.jpg)
 
 ## Circadian Computing
 

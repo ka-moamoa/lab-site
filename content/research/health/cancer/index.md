@@ -24,7 +24,7 @@ math = false
 
 +++
 
-![cancer](../../img/cancer.jpg)
+![cancer](../../../img/cancer.jpg)
 
 ## Cancer Fighting Implantable
 
