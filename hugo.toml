@@ -1,0 +1,13 @@
+baseURL = 'https://kamoamoa.com/'
+languageCode = 'en-us'
+title = 'KA MOAMOA at GEORGIA TECH'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 2
