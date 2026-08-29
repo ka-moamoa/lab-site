@@ -14,8 +14,13 @@ logo = "img/KaMoamoaLogo_Transparent.png"
 secondaryLogo = "img/KaMoamoaLogo_Transparent_DarkMode.png"
 
 [homepage]
-layout = "page"
-showRecent = false
+  layout = "page"
+  showRecent = false
+  showRecentItems = 6
+  showMoreLink = true
+  showMoreLinkDest = "/news/"
+  cardView = true
+  cardViewScreenWidth = false
 
 [news]
 layout = "page"
