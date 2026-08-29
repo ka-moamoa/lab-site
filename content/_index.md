@@ -43,6 +43,7 @@ We work closely with the [Center for Advancing Responsible Computing](https://re
 Our lab is generously funded by the National Science Foundation under multiple awards:
 
 
+- [Collaborative Research: CPS-CIR: Community-maintained Resilient AI Infrastructure for Local Food Security in Hawaii (CNS-2617465)](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2617465)
 - [SCC-IRG: Edge AI, Biofabrication, and Data Science for Disaster Preparedness and Community Wellbeing in Hawaii (CNS-2531574)](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2531574)
 - [DESC: Type 2: Delphi: Life-time aware design frameworks for sustainable edge devices (CCF-2324861)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2324861&HistoricalAwards=false)
 - [SCC-IRG Track 1: Strengthening Resilience of Ojibwe Nations Across Generations (STRONG) (CNS-2233912)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2233912)
