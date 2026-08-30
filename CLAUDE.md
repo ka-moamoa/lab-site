@@ -115,18 +115,6 @@ In `config/_default/params.toml`:
   injects a "Recent Articles" section if this is `true`. It was `true` at
   one point and nobody wanted that section on the homepage.
 
-## Known open work (as of this writing — check `git log`/`git status` for current state)
-
-- `content/research/education/index.md` has **unresolved git conflict
-  markers** sitting in it (`<<<<<<<` / `=======` / `>>>>>>>`), from a
-  collaborator's small link fix colliding with a much larger local rewrite.
-  Needs a human to pick/merge content, not a mechanical resolution.
-- Several research pages (`carbon`, `cyber-infrastructure`, `health/_index.md`,
-  `intermittent`, `play`, `robots`, `team/_index.md`) have substantial
-  uncommitted local rewrites (new sections, restructured content, new
-  images in untracked `img/`/`media/` subdirectories) that are intentionally
-  **not yet committed** pending review of the content itself.
-
 If you're picking this up fresh after a while away: **run `git status`
 first** and read any diffs before assuming the working tree matches what's
 deployed. The gap between "what's on disk" and "what's committed" is exactly
