@@ -70,16 +70,12 @@ sharingLinks: [ "linkedin", "twitter", "email"]
 - Xinye Wang
 - [Yibo Fu](https://yibo-fu.com)
 - [Summit Shrestha](https://sites.google.com/view/summitshrestha/)
+- [Tristan Daniel](https://tristan-daniel.netlify.app/)
 
 
 ### Master Students
 
 - Candace Boice
-- Dharmik Patel
-- [Tristan Daniel](https://tristan-daniel.netlify.app/)
-- [Disha Sikaria](https://dishasikaria.com/)
-- [Akanksha Tanwar](https://www.linkedin.com/in/akankshatanwar17/)
-- [Anil Kumar Soma](https://www.linkedin.com/in/soma1809/)
 
 
 ### Honors and Undergraduate Students
@@ -116,6 +112,10 @@ sharingLinks: [ "linkedin", "twitter", "email"]
 - Viswak Raja (Ford)
 - Will Gelder (CBORD)
 - [Ella Neumann](https://ellaneumann.com/)
+- Dharmik Patel (Uber)
+- [Disha Sikaria](https://dishasikaria.com/) (Kensho)
+- [Akanksha Tanwar](https://www.linkedin.com/in/akankshatanwar17/) (Visa)
+- [Anil Kumar Soma](https://www.linkedin.com/in/soma1809/) (Qualcomm)
 
 ### Undergratuate
 - Bill Yen (PhD, Stanford)
