@@ -38,16 +38,13 @@ sharingLinks: [ "linkedin", "twitter", "email"]
 
 ### Research Staff
 - [Dr. Saad Ahmed](https://www.saadahmedch.com/)
-- [Rachel Baker-Ramos](https://www.rachelbakerdesigner.com/)
 - Gabriela Buraglia
 
 ### Postdoctoral Fellows
 
-- [Dr. Alex Cabral](https://a-cabral.github.io/)
-- Dr. Yaman Sangar
 - [Dr. Sylvia H. Janicki](https://sylviahjanicki.com/)
 - [Dr. Eren Yildiz](https://erenyildiz33.github.io/)
-<!-- - [Dr. Zeyu Yan](https://zeyuyan.com/) -->
+- [Dr. Zeyu Yan](https://zeyuyan.com/) (Incoming)
 
 ### Affiliated Researchers
 - [Dr. Nicole Kennard](https://research.gatech.edu/people/nicole-kennard), Assistant Director for Community-Engaged Research at [BBISS](https://sustainablesystems.gatech.edu/)
@@ -58,7 +55,6 @@ sharingLinks: [ "linkedin", "twitter", "email"]
 
 - [John Mamish](https://johnmamish.com/)
 - [Christopher Kraemer](https://chrispkraemer.github.io/chrispkraemer/)
-- [Blaine Rothrock](https://blainerothrock.com/)
 - [Alex Curtiss](https://winnemaclabs.com/)
 - [Rishabh Goel](https://www.rishgoel.com)
 - [Eric Greenlee](https://ericgreenlee.github.io/)
@@ -66,9 +62,8 @@ sharingLinks: [ "linkedin", "twitter", "email"]
 - [Yingting Gao](https://yingtinggao666.wixsite.com/design)
 - [Tejonidhi Deshpande](https://tejodeshpande.github.io/)
 - [Moeiini ‘Moi’ Reilly](https://moireilly.com/)
-- [Britney Johnson](https://www.linkedin.com/in/britney-johnson-8b904555)
 - [Connor Pan](http://pancjp.com/)
-- [Ella Neumann](https://ellaneumann.com/)
+- [Rachel Baker-Ramos](https://www.rachelbakerdesigner.com/)
 - Haisley Kim
 - [Jacob Cook](https://www.linkedin.com/in/jacob-cook-22181a175/)
 - [Nikola Maruszewski](https://marusz.com/)
@@ -106,6 +101,9 @@ sharingLinks: [ "linkedin", "twitter", "email"]
 - [Dr. Nivedita Arora](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/arora-nivedita.html) (Asst. Prof at Northwestern)
 - [Dr. Tingyu Cheng](https://engineering.nd.edu/faculty/tingyu-cheng/) (Asst. Prof at Notre Dame)
 - [Dr. Stefany Cruz](https://www.stefanylcruz.com/) (Postdoc, University of Washington)
+- [Dr. Alex Cabral](https://a-cabral.github.io/) (Asst. Prof at MIT)
+- [Dr. Yaman Sangar](https://ee.calpoly.edu/faculty/ysangar) (Asst. Prof at Cal Poly)
+- [Blaine Rothrock](https://blainerothrock.com/) (Asst. Prof at Purdue)
 
 
 ### Masters
@@ -117,6 +115,7 @@ sharingLinks: [ "linkedin", "twitter", "email"]
 - Jahnavi Kolakaluri (Palantir)
 - Viswak Raja (Ford)
 - Will Gelder (CBORD)
+- [Ella Neumann](https://ellaneumann.com/)
 
 ### Undergratuate
 - Bill Yen (PhD, Stanford)
