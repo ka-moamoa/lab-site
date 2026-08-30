@@ -45,6 +45,18 @@ With support from the NSF [(CNS-2107400)](https://www.nsf.gov/awardsearch/showAw
 
 We have been funded by the NSF (via the RAPID mechanism [CNS-2032408](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2032408)) to embed personal protective equipment (PPE) like masks, and face shields, with ultra low cost and maintenance free sensing devices to help battle the COVID-19 pandemic. These smart PPE devices will enable healthcare workers, caregivers, and the general population to stay safe and  informed.
 
+## AI Systems for Human Well-being
+
+### AI-Mediated Social Co-Presence
+
+**[CompanionCast](https://arxiv.org/abs/2512.10918)** (Under Review), developed in collaboration with [Dolby Laboratories](https://www.dolby.com/), asks a simple but underexplored question: what does it feel like to watch something alone, together? The system uses multi-agent conversational AI and spatial audio to simulate the social texture of co-viewing—filling the room with the subtle presence of others—for people watching solo. Beyond entertainment, this raises a broader design question relevant to health: can technology restore a felt sense of social connection for people who are isolated by illness, recovery, or distance?
+
+### Multi-Agent Socio-Collaborative Companions
+
+![MASCOT system](img/mascot_system.jpg "MASCOT is a more general system to explore how groups of persona based chatbots can assist in healthcare duties. MASCOT is intended to enable exploration of the many downsides and constraints around using AI Agents in critical settings, such as healthcare.")
+
+**[MASCOT](https://arxiv.org/abs/2601.14230)** (Under Review) is a multi-agent framework for building socio-collaborative AI companions that can sustain rich group-like support conversations. Rather than a single chatbot, MASCOT coordinates a team of agents—each with a distinct persona (e.g., an empathetic listener, a perspective-shifter, a positivity anchor)—under a Meta-Agent director that keeps the conversation coherent and non-redundant. A two-phase training process first aligns each agent's individual persona using RLAIF, then optimizes collective dialogue quality to prevent agents from echoing each other or drifting into generic assistant behavior. In emotional support settings, this means a user experiences something closer to a supportive group than a single chatbot—relevant to mental health contexts where diverse social perspectives matter.
+
 # Implantables
 
 {{< article link="/research/health/cancer/" showSummary=true >}}

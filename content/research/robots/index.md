@@ -5,11 +5,9 @@ showHero: false
 layout: simple
 ---
 
-![flapping](../../img/flapping.jpg)
+![](img/FDR.png "Failure resilient robotic actuator platform.")
 
-## Overview
-
-Our work in sustainable robotics rethinks how robotic systems are designed, powered, deployed, and ultimately disposed of. As robotics increasingly moves into natural, human, and healthcare environments, we ask a fundamental question: *what would it mean for robotic systems to be environmentally responsible, long-lived, and aligned with the ecologies and communities they operate within?*
+Our work in sustainable robotics rethinks how robotic systems are designed, powered, deployed, and ultimately disposed of. As robotics increasingly moves into natural, human, and healthcare environments, we ask a fundamental question: \*what would it mean for robotic systems to be environmentally responsible, long-lived, and aligned with the ecologies and communities they operate within?\*
 
 Drawing from our broader research agenda in sustainable computing, we explore robotic platforms that minimize energy use, eliminate or reduce batteries, and leverage materials and behaviors inspired by living systems. Our goal is to create robotic systems that can operate for long periods of time with minimal maintenance, reduced ecological footprint, and new forms of interaction made possible by sustainability-first design.
 
@@ -29,15 +27,17 @@ A core thrust of this work explores **battery-free and energy-harvesting unmanne
 
 These systems challenge traditional assumptions about robotic autonomy and performance, emphasizing endurance, adaptability, and environmental integration over raw power or speed. Such approaches open new possibilities for sustainable sensing, environmental monitoring, and long-lived robotic infrastructure.
 
-- [Multi-university team building actuators for next-generation sustainable bio-bots (Press Release)](https://www.cmu.edu/news/stories/archives/2023/may/multi-university-team-building-actuators-for-next-generation-sustainable-bio-bots)
-
 ---
 
 ## Soft Robotics and Sustainable Materials
 
 We also explore **soft robotic platforms constructed from sustainable and biodegradable materials**, motivated by the need to reduce waste and ecological harm from robotic systems deployed at scale. By combining soft materials, novel actuation mechanisms, and sustainability-aware design, we aim to create robots that are safer to interact with, easier to deploy in natural environments, and less damaging when they inevitably fail or are retired.
 
-This work connects material science, robotics, and sustainability, emphasizing lifecycle-aware design rather than single-metric performance optimization.
+In this research thrust, we develop advanced failure detection and recovery control strategies aimed at extending the operational lifespan of robotic systems, even in the presence of structural failure. Rather than viewing failure as the end of functionality, we design intelligent systems that can detect anomalies in real time, adapt to changing structural conditions, and recover performance autonomously by leveraging built-in design redundancies.
+
+Our work integrates both statistical machine learning and deep learning approaches for robust failure detection. Building on these insights, we develop adaptive recovery control strategies that restore critical capabilities such as robot shape control and tip-force regulation. This framework enables resilient robotic operation, enhancing safety, reliability, and long-term autonomy in complex and unpredictable environments.
+
+This work connects material science, robotics, and sustainability, emphasizing lifecycle-aware design rather than single-metric performance optimization. [Multi-university team building actuators for next-generation sustainable bio-bots (Press Release)](https://www.cmu.edu/news/stories/archives/2023/may/multi-university-team-building-actuators-for-next-generation-sustainable-bio-bots)
 
 ---
 
