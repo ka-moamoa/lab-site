@@ -5,6 +5,8 @@ layout: "simple"
 
 {{< alert "lightbulb" >}}News and updates from the Ka Moamoa Lab, spanning research, publications, events, and community partnerships. {{< /alert >}}
 
+**(10/2026)** The [**Why is CHI in Hawaiʻi**](https://josiahhester.com/whychi/) site, Prof. Hester's 2023–24 appeal to the SIGCHI community following the Maui wildfires, is now permanently archived. Its FAQ, decision tree, demands, and resources are preserved unchanged.
+
 **(08/2026)** New **$1 million** NSF **CPS-CIR** award, [**Community-maintained Resilient AI Infrastructure for Local Food Security in Hawaii**](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2617465), collaborative with [**Purple Maiʻa Foundation**](https://purplemaia.org/) (PI Donavan Kealoha, co-PI Kelsey Amos). The project builds locally-grown, solar-powered AI compute clusters, assembled from low-cost and reused hardware, so farms across the Hawaiian Islands can get useful AI decision support even through power and connectivity disruptions.
 
 **(02/2026)** Huge batch of paper acceptances! Two papers on Indigeneity and HCI in [**ACM CHI**](https://chi2026.acm.org/), two papers around carbon-aware computing in [**ACM MobiSys**](https://www.sigmobile.org/mobisys/2026/), a paper on puncture recovery for soft-robots in [**ICRA**](https://2026.ieee-icra.org/), a paper on low power depth cameras in [**CVPR**](https://cvpr.thecvf.com/Conferences/2026), and finally a paper on soil powered computing at [**ACM SenSys**](https://sensys.acm.org/2026/index.html)! The most productive quarter in lab history!
